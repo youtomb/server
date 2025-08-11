@@ -1,0 +1,36 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+<link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCKbNbEq5WMLXEGGwTQlSBTQ"/>
+<id>yt:channel:KbNbEq5WMLXEGGwTQlSBTQ</id>
+<yt:channelId>KbNbEq5WMLXEGGwTQlSBTQ</yt:channelId>
+<title>Sussy Memes</title>
+<link rel="alternate" href="https://www.youtube.com/channel/UCKbNbEq5WMLXEGGwTQlSBTQ"/>
+<author>
+<name>Sussy Memes</name>
+<uri>https://www.youtube.com/channel/UCKbNbEq5WMLXEGGwTQlSBTQ</uri>
+</author>
+<published>2025-05-09T23:21:03+00:00</published>
+<entry>
+<id>yt:video:1De3dNtlU38</id>
+<yt:videoId>1De3dNtlU38</yt:videoId>
+<yt:channelId>UCKbNbEq5WMLXEGGwTQlSBTQ</yt:channelId>
+<title>When the DirecTV satellite dish is on your house, it's time to disconnect the cable.</title>
+<link rel="alternate" href="https://www.youtube.com/watch?v=1De3dNtlU38"/>
+<author>
+<name>Sussy Memes</name>
+<uri>https://www.youtube.com/channel/UCKbNbEq5WMLXEGGwTQlSBTQ</uri>
+</author>
+<published>2025-05-10T19:56:41+00:00</published>
+<updated>2025-06-14T15:08:47+00:00</updated>
+<media:group>
+<media:title>When the DirecTV satellite dish is on your house, it's time to disconnect the cable.</media:title>
+<media:content url="https://www.youtube.com/v/1De3dNtlU38?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+<media:thumbnail url="https://i2.ytimg.com/vi/1De3dNtlU38/hqdefault.jpg" width="480" height="360"/>
+<media:description>first video</media:description>
+<media:community>
+<media:starRating count="0" average="0.00" min="1" max="5"/>
+<media:statistics views="3"/>
+</media:community>
+</media:group>
+</entry>
+</feed>
